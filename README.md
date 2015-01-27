@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # node-js-getting-started
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
@@ -34,3 +35,14 @@ For more information about using Node.js on Heroku, see these Dev Center article
 - [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
 - [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
 - [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
+=======
+# RecruitingEasy
+The Best App for the Recruiters :P
+1-Login in HEROKU
+2-Create an app in HEROKU
+3-Go to app
+4-In the app go to the TAB Deploy
+5-click in button "Connect to GitHub"
+6-Select "CODERSVLC/RecruitingEasy" repository
+7-Select a Branch "master", Deploy and get Fun.
+>>>>>>> c7c13da083f4efd1949f23fd6424a16bc37c8794
